@@ -1,0 +1,25 @@
+\begin{thebibliography}{1}
+
+\bibitem{veach}
+Eric Veach.
+\newblock {\em Robust monte carlo methods for light transport simulation}.
+\newblock Stanford University Stanford, 1998.
+
+\bibitem{scratch}
+Scratchapixel.
+\newblock Simulating the colors of the sky, 2017.
+
+\bibitem{nishita}
+Tomoyuki Nishita, Yoshinori Dobashi, Kazufumi Kaneda, and Hideo Yamashita.
+\newblock Display method of the sky color taking into account multiple
+  scattering.
+\newblock In {\em Pacific Graphics}, volume~96, pages 117--132, 1996.
+
+\bibitem{rainbows}
+John~S. Reid.
+\newblock Rainbows, halos, and glories. by robert greenler. cambridge
+  university press (cambridge), 1980. pp. x, 195. £15.
+\newblock {\em Quarterly Journal of the Royal Meteorological Society},
+  107(454):980--981, 1981.
+
+\end{thebibliography}
